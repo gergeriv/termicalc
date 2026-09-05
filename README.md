@@ -1,5 +1,5 @@
 # termicalc
-simple calculator on linux in terminal
+simple calculator in terminal
 
 ## what can it do?
 perfome operation on two numbers with add, sub, multi, divis
